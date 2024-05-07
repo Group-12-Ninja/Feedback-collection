@@ -1,0 +1,37 @@
+.class {
+  width: 300px;
+  margin-top: 100px;
+  padding: 20px;
+  margin-left: 600px;
+  border-radius: 20px;
+  background-color: #e2f9f6;
+  box-shadow: 0 1px 5px black;
+}
+
+.log {
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.form-floating {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  margin-top: 10px;
+  margin-bottom: 0;
+  box-shadow: 0 2px 8px rgb(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #15cdb5;
+  border-color: #15cdb5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: #27e4cb;
+  border-color: #27e4cb;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

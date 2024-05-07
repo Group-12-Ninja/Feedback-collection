@@ -1,0 +1,63 @@
+.container {
+  width: 400px;
+  margin-top: 40px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #e2f9f6;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px black;
+}
+
+center {
+  margin-top: 20px;
+}
+
+.input-group-text {
+  margin-top: 10px;
+  background-color: #15cdb5;
+  box-shadow: 0 2px 8px rgb(0, 0, 0, 0.1);
+}
+
+.form-control {
+  margin-top: 10px;
+  margin-bottom: 0;
+  box-shadow: 0 2px 8px rgb(0, 0, 0, 0.1);
+}
+
+.label {
+  font-size: 20px;
+  font-weight: 500;
+  color: #333;
+}
+
+div > svg {
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+
+.star-active {
+  color: rgba(239, 239, 25, 0.772);
+}
+
+#text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.btn-info {
+  width: 50%;
+  background-color: #15cdb5;
+  border-color: #15cdb5;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-info:hover {
+  background-color: #27e4cb;
+  border-color: #27e4cb;
+  color: #fff;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
